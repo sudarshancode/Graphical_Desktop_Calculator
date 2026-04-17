@@ -36,5 +36,8 @@ This project demonstrates GUI design, event handling, and basic expression handl
 
 ---
 
+## 🚧 Project Status
 
+This project is still **ongoing** and under active development.  
+Some features are incomplete and will be added in future updates.
 
