@@ -1,3 +1,40 @@
-# Graphical_Desktop_Calculator
+# 🧮 Qt Calculator
 
-![Screenshot1](images/sc1.png)
+A simple and elegant calculator application built using **Qt (C++)**.  
+This project demonstrates GUI design, event handling, and basic expression handling in Qt.
+
+---
+
+## 🚀 Features
+
+- 🔢 Basic arithmetic operations:
+  - Addition (+)
+  - Subtraction (-)
+  - Multiplication (*)
+  - Division (/)
+
+- 🟡 Decimal number support (.)
+- 🔴 Clear button (C)
+- 🟢 Real-time display update
+- 📱 Clean and responsive UI design
+- 🎯 Button-based input (no keyboard required)
+
+---
+
+## 🖥️ UI Preview
+
+![Calculator UI](images/sc1.png)
+
+---
+
+## 🛠️ Technologies Used
+
+- **C++**
+- **Qt Widgets**
+- **Qt Designer**
+- **Qt Style Sheets (QSS)**
+
+---
+
+
+
