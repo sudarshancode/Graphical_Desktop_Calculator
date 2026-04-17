@@ -378,6 +378,6 @@ E:/QTProject/QtCalculator/mainwindow.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:E:/QTProject/QtCalculator/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/QtCalculator_autogen/moc_predefs.h
  mdp:E:/QTProject/QtCalculator/mainwindow.h
+E:/QTProject/QtCalculator/main.cpp
 E:/QTProject/QtCalculator/mainwindow.cpp
  uic:./ui_mainwindow.h
-E:/QTProject/QtCalculator/main.cpp
